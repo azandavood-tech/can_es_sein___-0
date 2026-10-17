@@ -36,6 +36,6 @@
 ```
 
 
-[More Info] (https://en.wikipedia.org/wiki/Milad_Tower)
+[More Information about Milad Tower](https://en.wikipedia.org/wiki/Milad_Tower)
 
 ![Milad Tower 2026](milda/Milad_Tower.jpg)
