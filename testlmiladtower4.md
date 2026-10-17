@@ -1,41 +1,52 @@
-# My Favourite Place
-## Milad Tower
+# My Favourite Place — Milad Tower
+
 > "Milad Tower stands as an iconic symbol of modern Tehran, bridging sky and city."
 
-### **Keynotes**
-- A multi-purpose tower in Tehran, Iran
-- The sixth-tallest tower in the world
-- The world's first telecommunication tower in terms of the usage area of the top structure
-- The tallest tower in Iran
-- The 24th-tallest freestanding structure in the world.
-- 
-***
-### **Quick Specifications**
+Milad Tower is a multi-purpose telecommunications and observation tower in Tehran, Iran, notable for its height and vantage points over the city.
 
-| Feature | Detail | Specification |
-|:--------|:------:|:--------------:|
-|**Height**|435 meters|6th-tallest tower|
-|**Floors**| 12 floors|Top structure|
-|**Location**|Tehran|Iran|
-***
+---
 
-### **Top Attractions Inside the Tower**
+## Highlights
+- Multi-purpose tower in Tehran, Iran
+- Sixth-tallest tower in the world
+- World's first telecommunication tower by top-structure usage area
+- Tallest tower in Iran
+- 24th-tallest freestanding structure in the world
 
-1. `Observation Deck` – Offers 360-degree panoramic views of Tehran.
-2. `Revolving Restaurant` – One of the largest revolving restaurants in the world.
-3. `Sky Lounge` – Located at the top floor of the main dome.
-***
-### **Technical Data**
+---
+
+## Quick specifications
+
+| Feature | Detail |
+|--------:|:------|
+| Height  | 435 m |
+| Floors (top structure) | 12 |
+| Location | Tehran, Iran |
+| Status  | Operational |
+
+---
+
+## Top attractions inside the tower
+
+1. **Observation Deck** — Offers 360° panoramic views of Tehran.
+2. **Revolving Restaurant** — Dining with rotating city views; one of the larger revolving restaurants in the world.
+3. **Sky Lounge** — Lounge area at the top floor of the main dome.
+
+---
+
+## Technical data
 
 ```json
 {
   "tower_name": "Milad Tower",
-  "coordinates": "35.7447° N, 51.3753° E",
+  "latitude": 35.7447,
+  "longitude": 51.3753,
   "status": "Operational"
 }
 ```
 
+[More information about Milad Tower](https://en.wikipedia.org/wiki/Milad_Tower "Milad Tower — Wikipedia")
 
-[More Information about Milad Tower](https://en.wikipedia.org/wiki/Milad_Tower)
+![Milad Tower, Tehran — 2026](milda/Milad_Tower.jpg)
 
-![Milad Tower 2026](milda/Milad_Tower.jpg)
+*Figure: Milad Tower, Tehran (photo: 2026). Please verify the image path and filename casing (milda/Milad_Tower.jpg) in the repository.*
