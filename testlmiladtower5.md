@@ -49,4 +49,4 @@ Milad Tower is a multi-purpose telecommunications and observation tower in Tehra
 
 ![Milad Tower, Tehran — 2026](milda/Milad_Tower.jpg)
 
-*Figure: Milad Tower, Tehran (photo: 2026). Please verify the image path and filename casing (milda/Milad_Tower.jpg) in the repository.*
+*Figure: Milad Tower, Tehran (photo: 2026).*
