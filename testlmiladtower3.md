@@ -38,4 +38,4 @@
 
 [More Info] (https://en.wikipedia.org/wiki/Milad_Tower)
 
-[Milad Tower 2026] (https://github.com/azandavood-tech/can_es_sein___-0/edit/main/milda/Milad_Tower.jpg)
+![Milad Tower 2026](milda/Milad_Tower.jpg)
