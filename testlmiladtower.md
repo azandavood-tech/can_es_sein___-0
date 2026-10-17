@@ -1,13 +1,23 @@
 # My Favourite Place
-
 ## Milad Tower
+> "Milad Tower stands as an iconic symbol of modern Tehran, bridging sky and city."
+
 **Keynotes**
 - A multi-purpose tower in Tehran, Iran
 - The sixth-tallest tower in the world
 - The world's first telecommunication tower in terms of the usage area of the top structure
 - The tallest tower in Iran
 - The 24th-tallest freestanding structure in the world.
-  
+
+**Quick Specifications**
+
+| Feature | Detail | Specification |
+|:--------|:------:|:--------------:|
+| **Height** | 435 meters | 6th-tallest tower |
+| **Floors** | 12 floors | Top structure |
+| **Location** | Tehran | Iran |
+
+
 [More Info] (https://en.wikipedia.org/wiki/Milad_Tower)
 
 <figure style="max-width: 456px; margin: 0 auto; text-align: center;">
