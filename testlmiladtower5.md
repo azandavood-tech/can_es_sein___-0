@@ -6,7 +6,7 @@ Milad Tower is a multi-purpose telecommunications and observation tower in Tehra
 
 ---
 
-## Highlights
+## Highlights1
 - Multi-purpose tower in Tehran, Iran
 - Sixth-tallest tower in the world
 - World's first telecommunication tower by top-structure usage area
